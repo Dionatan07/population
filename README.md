@@ -30,7 +30,7 @@ Curso este que tive a honra de participar com a plataforma de cursos online <str
 
 - [x] Collection MAP;
 - [x] Uso dos métodos containsKey, get(), entrySet(), min(), max(), size(), clear() e isEmpty();
-- [x] Uso de HashSet, LinkedHashSet, TreeSet e ArrayList;
+- [x] Uso de HashMap, LinkedHashMap, TreeMap e ArrayList;
 - [x] Uso da interface Iterator<E>;
 - [x] Lógica da programação;
 
